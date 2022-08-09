@@ -502,7 +502,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.cicd.sampleapp;
 				PRODUCT_NAME = CICD_iOS;
-				PROVISIONING_PROFILE_SPECIFIER = "Sample App CI/CD poc";
+				PROVISIONING_PROFILE_SPECIFIER = "cicdsampleapp";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -531,7 +531,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.cicd.sampleapp;
 				PRODUCT_NAME = CICD_iOS;
-				PROVISIONING_PROFILE_SPECIFIER = "Sample App CI/CD poc";
+				PROVISIONING_PROFILE_SPECIFIER = "cicdsampleapp";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
